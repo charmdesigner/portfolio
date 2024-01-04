@@ -10206,3 +10206,6 @@ ul.dev-icons li
 {
   width: 100%;
 }
+.works__img a:hover img{
+  filter: brightness(0.5);
+}
